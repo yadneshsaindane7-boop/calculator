@@ -1,75 +1,116 @@
 ![Calculator Preview](./calc.jpg)
 
-🧮 Calculator App - A Hibro_Labs Venture
+🧮 Modern Scientific + Standard Calculator - A Hibro_Labs Venture
 
-A modern, responsive Standard + Scientific Calculator built using HTML, CSS, and JavaScript with smooth UI, mobile support, history display, and scientific functions.
+A beautifully designed, responsive, and feature-rich calculator built using HTML, CSS, and JavaScript.
+It includes both standard and scientific modes, a premium glass-morphic UI, live expression preview, keyboard input support, and smooth mobile responsiveness.
 
 🚀 Features
-✔️ Standard Calculator
+🔹 Premium Modern UI
 
-All basic arithmetic operations
+Glassmorphism-inspired interface
 
-Delete (⌫) and Clear (C)
+Smooth hover & press animations
 
-Decimal support
+Neon accent theme
 
-Keyboard input enabled
+Dark, elegant background for professional feel
 
-Real-time calculation
+🔹 Standard Calculator Functions
 
-✔️ Scientific Mode
+Addition, subtraction, multiplication, division
 
-Expands inside the main calculator layout
+Percentage key
+
+Clear (AC) & Delete (⌫)
+
+Automatically continues calculations using result
+
+Accurate evaluation logic
+
+🔹 Scientific Mode
+
+Expands inside the same calculator (no shifting UI)
 
 Includes:
 
-√x
+Square (x²)
 
-x²
+Square root (√x)
 
-xʸ
+Power (xʸ)
 
-sin, cos, tan
+Logarithm
 
-log, ln
+Trigonometric functions: sin, cos, tan
 
-π, e
+Constants: π and e
 
-% and more
+Smooth expand/collapse animation
 
-✔️ UI & Design
+🔹 Enhanced Display System
 
-Responsive on mobile + desktop
+Shows full input expression above the result
 
-Clean card-based layout
+Clean and readable result output
 
-Smooth expand animation for scientific mode
+Floating expression box with shadow depth
 
-Header: Calculator : A Hibro_Labs Venture
+🔹 Keyboard Support
+
+Type numbers directly from keyboard
+
+Supports:
+
+Numbers
+
++, -, *, /
+
+Enter (=)
+
+Backspace (delete)
+
+Escape (clear)
+
+🔹 Fully Responsive
+
+Works flawlessly on mobile, tablet, and desktop
+
+Buttons resize elegantly
+
+Layout remains consistent and visually balanced
+
+🎨 Visual Highlights
+
+Neon accent buttons for operators
+
+Dedicated colors for =, operators, numbers, and scientific keys
+
+Glassy floating expression overlay
+
+Soft shadows for premium depth
+
+Sticky header and footer with brand identity
+
+🏷 Branding
+Header:
+
+Calculator : A Hibro_Labs Venture
 
 Footer:
 
-Created by Yadnesh Saindane (click → portfolio)
-
-© Hibro_Labs Production
-
-✔️ Input Display
-
-Shows full mathematical expression above the result.
-
-🛠️ Tech Stack
-
-HTML5
-
-CSS3
-
-JavaScript (ES6)
-
-Done 🎉
-
-👨‍💻 Author
-
 Created by Yadnesh Saindane
-🔗 https://yadneshportfolio.vercel.app/
-
+[https://yadneshportfolio.vercel.app/]
 © Hibro_Labs Production
+
+📱 Perfect for Learning & Showcasing
+
+This project is ideal for:
+
+Web development practice
+
+UI/UX design demonstration
+
+JavaScript logic understanding
+
+Scientific calculator implementation reference
